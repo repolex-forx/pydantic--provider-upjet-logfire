@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "provider-upjet-logfire",
+  "versions": [
+    {
+      "commit": "5cf470dcbdd393521503955af67fd2e02aceb75d",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:37:12.148842+00:00"
+    }
+  ]
+}
