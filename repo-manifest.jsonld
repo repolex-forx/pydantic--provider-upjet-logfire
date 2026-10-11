@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/provider-upjet-logfire/commit/5cf470dcbdd393521503955af67fd2e02aceb75d",
       "git:hexsha": "5cf470dcbdd393521503955af67fd2e02aceb75d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/provider-upjet-logfire/commit/e78d74c567d876d8a1b3a2ae8bd3d4ff8589d7ec",
