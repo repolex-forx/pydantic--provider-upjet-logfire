@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pydantic/provider-upjet-logfire/commit/5cf470dcbdd393521503955af67fd2e02aceb75d",
+  "@type": "git:Commit",
+  "git:hexsha": "5cf470dcbdd393521503955af67fd2e02aceb75d",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/pydantic/provider-upjet-logfire"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/5cf470dcbdd393521503955af67fd2e02aceb75d.nq.gz",
+      "repolex:graphFileSize": 36034
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 145020
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 421
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 408
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T21:34:14.833314+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
